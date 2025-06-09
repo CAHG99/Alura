@@ -25,13 +25,7 @@ Pre-requisitos 📋
 No necesitas herramientas adicionales para ejecutar este proyecto. Solo asegúrate de tener un navegador web como Firefox, Chrome, o sus variaciones. Si trabajas con Visual Studio Code, puedes utilizar la extensión Live Server para una experiencia más fluida.
 
 Instalación 🔧
-Clona el repositorio en tu máquina local:
-
-git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
-Navega al directorio del proyecto:
-
-cd challenge-amigo-secreto_esp-main
-Abre el archivo index.html en tu navegador favorito para empezar a usar la aplicación.
+Clona el repositorio en tu máquina local
 
 Ejecución local 🔥
 Este proyecto no requiere ninguna instalación adicional. Simplemente abre el archivo index.html en tu navegador y empieza a usar la aplicación.
